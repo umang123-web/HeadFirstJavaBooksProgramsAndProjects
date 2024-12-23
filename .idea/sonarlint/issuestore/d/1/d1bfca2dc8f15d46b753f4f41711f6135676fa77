@@ -1,0 +1,11 @@
+
+”	java:S1359"YReduce the total number of break and continue statements in this loop to use at most one.(¿Â£¡J$dda38ab5-f0b3-49fb-90fd-3594c973f5ee
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌœJ$259b2e19-d6e2-4a54-b554-9af2d0fdbb60
+k	java:S106"+Replace this use of System.out by a logger.(äĞ‰øÿÿÿÿJ$f5d59067-2186-48b0-a6a6-934248c5b2b7
+k	java:S106"+Replace this use of System.out by a logger.(ƒ‚ÿ¥ûÿÿÿÿJ$56adb7bc-e9db-4df0-9d03-0a11043fb9a8
+f	java:S106"+Replace this use of System.out by a logger.(£ı÷ùJ$a6c7b6d0-6369-4418-b484-5027cfed6254
+k	java:S106E"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿJ$192f9582-f49d-4c75-a99f-4ca76ab7dd16
+e	java:S106K"+Replace this use of System.out by a logger.(€Š€J$774aa6c5-847a-4ff6-9f1c-ea268f67aa22
+k	java:S106M"+Replace this use of System.out by a logger.(„‘‘ÿÿÿÿÿJ$c0204f66-738c-4ab3-ac28-8eaec44dc5b0
+e	java:S106O"+Replace this use of System.out by a logger.(àÂ‚5J$2dbfa488-1086-49e9-be47-6864c798ad81
+k	java:S106P"+Replace this use of System.out by a logger.(åõî‰ûÿÿÿÿJ$807c88eb-4bb1-44db-be4a-1f15539c652f

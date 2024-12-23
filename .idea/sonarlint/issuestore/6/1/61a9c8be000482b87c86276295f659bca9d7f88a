@@ -1,0 +1,5 @@
+
+ 
+java:S1319"dThe type of "locs" should be an interface such as "List" rather than the implementation "ArrayList".(¤³¦J$672fed56-bf3f-4e4c-8e4b-477e39782ec5
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌœJ$47b9b7f8-c29d-41c5-8b22-31dc867590a7
+f	java:S106+"+Replace this use of System.out by a logger.(«‹ÎõJ$f548bcca-7cc8-48dc-b51b-18a3e81f1fe1

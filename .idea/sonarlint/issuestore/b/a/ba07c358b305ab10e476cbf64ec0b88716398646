@@ -1,0 +1,25 @@
+
+‡	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$03224657-bff2-4d9d-aaf4-387283d5b25b
+‡	java:S112š"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$5ed732d4-bb2c-4067-a4cb-ca0abe15c436
+‡	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$7e592c37-bbe1-4e12-ba5f-f2f752fa8c59
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑôŒñüÿÿÿÿJ$f4c91e48-a904-4743-95c2-3a1e61e901c1
+g
+java:S1948"+Make "sequencer" transient or serializable.(×¥­İJ$a47205c1-0e17-40fa-a11c-45dc217b471e
+f
+java:S1948"*Make "sequence" transient or serializable.(‡ÓîJ$620a2540-1997-400d-a8ce-1f33d0a39d97
+h
+java:S1948"'Make "track" transient or serializable.(•°®ÇûÿÿÿÿJ$ee026381-6fba-4287-8e2a-a780f276c7cf
+v
+java:S18542":Remove this useless assignment to local variable "layout".(ÊŞÖ°J$47e5f3f4-1391-4101-a6f8-4d66d99f1c08
+…
+java:S32521"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´J$fcdf4a8f-98d5-4450-a860-3f44e5be3a51
+g
+java:S14812"+Remove this unused "layout" local variable.(ÊŞÖ°J$58a0001a-1208-45eb-9d7d-f9bc24012366
+t
+java:S1481Z"3Remove this unused "instrumentname" local variable.(ı§–ƒûÿÿÿÿJ$26b5822c-508e-4147-a4f3-28870a61ae9f
+‚
+java:S2147™"ECombine this catch with the one at line 151, which has the same body.(âáéJ$e2842a96-9ec1-4830-8d9c-9c87102704cd
+r
+java:S2209î"5Change this instance-reference to a static reference.(ŒøåĞJ$5114a65d-31e1-4bcc-af30-7915c5be5555
+t
+java:S1172ü"7Remove this unused method parameter "tempoMultiplayer".(îóûîJ$0cc1dd86-4827-4388-a652-54f60592ddb5

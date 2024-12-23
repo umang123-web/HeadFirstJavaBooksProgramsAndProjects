@@ -1,0 +1,41 @@
+
+†	java:S112d"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$2615432e-d426-4332-abe4-e24cf5341388
+‡	java:S112ø"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$904c2132-27d7-44ae-bc8a-f253312ed579
+‡	java:S112ú"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$7beed6ab-2a3b-4b76-a44b-b5437c5caf17
+‡	java:S112¥"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$cf25ab21-454b-421a-b614-c83f4b40541d
+‡	java:S112É"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$f195cd5a-b5f4-4f60-9583-8b112575526e
+‡	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$fe96fd4f-1baa-4b7f-9c45-752b27e8d4ae
+¡
+java:S1319ı"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(Û–àJ$a5adc99d-9b5c-4a4d-a6ea-b65a98d0506d
+€
+java:S2095]"DUse try-with-resources or close this "Socket" in a "finally" clause.(¡‘„J$51ef44c5-edf5-4be0-9119-fe2f1b49828f
+‰
+java:S2095`"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(Ôš€ÌJ$8e32abe5-d1d9-4706-864a-26c55fa0357c
+f
+java:S1948#"%Make "out" transient or serializable.(Ö˜Ğ—ûÿÿÿÿJ$24c0ec9a-fb74-4632-a70a-e34b9c08607f
+e
+java:S1948$"$Make "in" transient or serializable.(ï¼Œ­ûÿÿÿÿJ$00d4fccd-6a12-4abd-bfbb-5bfe4658cb96
+g
+java:S1948&"+Make "sequencer" transient or serializable.(×¥­İJ$ddb9c626-bdc4-4bed-9996-ab1521bba99e
+f
+java:S1948'"*Make "sequence" transient or serializable.(‡ÓîJ$d4dc9239-1d23-4c85-b7a0-cdcacaddbe9c
+h
+java:S1948*"'Make "track" transient or serializable.(•°®ÇûÿÿÿÿJ$894a02d6-1693-416c-975a-3238ae91c0e8
+k
+java:S1197E"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿJ$3ab209d4-1ded-45c5-84ec-6cc6d9342cd6
+k	java:S106g"+Replace this use of System.out by a logger.(···¡ÿÿÿÿÿJ$7d4c9ae8-3fa6-431a-863d-a9d2b44d1872
+…
+java:S3252u"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´J$253c03c9-90a3-4a12-a539-53a5da293420
+‚
+java:S2147ù"ECombine this catch with the one at line 247, which has the same body.(âáéJ$c450ca5b-204f-4740-8554-98355acdb03c
+g	java:S106È"+Replace this use of System.out by a logger.(¯²»÷J$1df274f6-980d-4cd5-be9d-e05781963a6e
+h
+java:S1172Š"+Remove this unused method parameter "tick".(êÏù±J$49dab90e-0f94-4a3c-a6b4-7e9be79866b0
+f	java:S106¦"+Replace this use of System.out by a logger.(Í„ÍDJ$b3192cfe-6181-42d1-a499-c7f368e6988f
+g	java:S106§"+Replace this use of System.out by a logger.(˜½ÅJ$cd9d2073-6915-4bf2-aceb-51c49b831407
+r
+java:S1128"6Remove this unused import 'javax.swing.border.Border'.(şŒ©ƒJ$09736966-53c4-4975-89a6-047f2b20267a
+t
+java:S1128"3Remove this unused import 'java.util.ListIterator'.(õ¥æÊşÿÿÿÿJ$3539ea50-792f-4960-8d25-aae4ec8bd95b
+m
+java:S3398õ"0Move this method into "MyListSelectionListener".(ûş×–J$26b682b1-0727-4a19-8202-c676df163d4e

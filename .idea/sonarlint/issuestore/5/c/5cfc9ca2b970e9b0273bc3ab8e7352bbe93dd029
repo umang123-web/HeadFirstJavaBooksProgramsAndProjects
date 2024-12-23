@@ -1,0 +1,11 @@
+
+•
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(…åÁ’J$11baebab-292a-4b95-995f-f1aac9b05c16
+¬
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(œÆ­±J$19c0816d-7ddd-414e-85b6-58dba3b31e37
+£
+java:S14887"bImmediately return this expression instead of assigning it to the temporary variable "alphacells".(—ÏÜíÿÿÿÿÿJ$6483235c-5687-4e82-bd4d-c22d70360624
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨§³çùÿÿÿÿJ$0a3693ef-203d-4dfe-83b5-7d9fbb35056d
+f	java:S106"+Replace this use of System.out by a logger.(íâÐªJ$af46885e-f7c4-4e98-895c-b65091053e32
+U
+java:S2178'"Correct this "&" to "&&".(Ž ÓŒJ$0acb6da0-1491-45a1-b050-e653a87ff7b4
